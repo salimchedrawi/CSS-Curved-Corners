@@ -11,4 +11,4 @@ Info: Works in Internet Explorer, Firefox, and all latest browsers. And is 100% 
 Extra
 ==================
 
-If you wish to insert a table between ///<div class=”fff”></div> , then please be advised that setting the width of the table to 100% will work in Firefox, but will not work in Internet Explorer. So, in order for it to work on both web browsers, set the table width to a specific length (example: 200px).
+If you wish to insert a table between div class=”fff”, then please be advised that setting the width of the table to 100% will work in Firefox, but will not work in Internet Explorer. So, in order for it to work on both web browsers, set the table width to a specific length (example: 200px).
