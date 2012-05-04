@@ -4,6 +4,7 @@ This technique was prior to the CSS3 option of rounded corners. It can still be 
 
 Info: Works in Internet Explorer, Firefox, and all latest browsers. And is 100% resizable.
 
+
 The CSS:
 
 <style type=”text/css”>
