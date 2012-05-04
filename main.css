@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+.container { color:#000 ;margin:3px 15px; } /* Change the px accordingly */
+.rtop, .rbottom{
+display:block;
+}
+.rtop *, .rbottom *{
+display: block;
+height: 1px;
+overflow: hidden;
+background:#3A3A3A; /* Choose color here for top and bottom */
+}
+.r1{margin: 0 5px}
+.r2{margin: 0 3px}
+.r3{margin: 0 2px}
+.r4{margin: 0 1px; height: 2px}
+.fff {background:#3A3A3A;} /* Choose color here for body */
